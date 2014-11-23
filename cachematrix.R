@@ -1,6 +1,6 @@
 ## There are two functions, makeCacheMatrix and cacheSolve
-## makeCacheMatrix
-## cacheSolve
+## makeCacheMatrix: creates matrix, list of functions for matrix
+## cacheSolve: computes inverse of matrix for matrix created with makeCacheMatrix
 
 ## Creates a matrix, and a list of functions that can be performed on the matrix
 
